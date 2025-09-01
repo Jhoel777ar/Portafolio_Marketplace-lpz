@@ -120,7 +120,7 @@
 
 | **Miembro** | **Rol** | **Contribuciones** |
 | --- | --- | --- |
-| Joel Andrés Chura | Scrum Master & Backend Developer | Autenticación, Base de Datos, Dashboard |
+| Joel Andrés | Scrum Master & Backend Developer | Autenticación, Base de Datos, Dashboard |
 | Shamir Erick Condori | Frontend Developer & UX Designer | Interfaces de Registro, Social Media |
 | Luis Fernando Villca | UI Designer & Backend Developer | Catálogo, API Endpoints |
 | Leonardo Fidel Arana | UX Designer & Frontend Developer | Carrito, Edición de Productos |
