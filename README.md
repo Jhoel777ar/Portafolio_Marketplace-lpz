@@ -1,7 +1,5 @@
 ### Local Market - Portfolio Digital
 
-![Local Market Logo](https://via.placeholder.com/200x200.png?text=Local+Market+Logo)---
-
 ## 📋 Resumen Ejecutivo
 
 **Local Market** es una plataforma digital innovadora que conecta emprendedores universitarios con la comunidad local, facilitando la venta de productos y servicios mientras fomenta el ecosistema emprendedor. Desarrollada con **Laravel 12**, surge para profesionalizar la presencia digital de estudiantes emprendedores.
