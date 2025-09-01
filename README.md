@@ -41,9 +41,9 @@
    - **Tecnologías:** Laravel Controllers, Blade Components, Chart.js.
    - **Commits:** US-010.
 3. **Links de Commits**
-https://github.com/Jhoel777ar/marketplace-lpz/commit/0ae7133d85fc9632065d6e8c5d9a092d58be41a0
-https://github.com/Jhoel777ar/marketplace-lpz/commit/f4bef3a5cfedffef90e32a05df043a33ff46a323
-https://github.com/Jhoel777ar/marketplace-lpz/commit/128af8d7120702d99a01ee7244af4e89da2100d6
+- https://github.com/Jhoel777ar/marketplace-lpz/commit/0ae7133d85fc9632065d6e8c5d9a092d58be41a0
+- https://github.com/Jhoel777ar/marketplace-lpz/commit/f4bef3a5cfedffef90e32a05df043a33ff46a323
+- https://github.com/Jhoel777ar/marketplace-lpz/commit/128af8d7120702d99a01ee7244af4e89da2100d6
 
 ### 🛠️ Desafíos Técnicos Resueltos
 
