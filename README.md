@@ -423,7 +423,7 @@ El proyecto demostró que mi fortaleza reside en la intersección entre excelenc
 
 <div align="center">
 
-*Desarrollado con ❤️ por el Equipo Stark-Next *
+*Desarrollado por ARK DEV ORG Joel Andrés con colaboración de *Desarrollado con ❤️ por el Equipo Stark-Next**
 
 **⭐ Si este proyecto te resultó útil, no olvides darle una estrella ⭐**
 
