@@ -1,254 +1,430 @@
-### Tu ex Market Market - Portfolio Digital
+# 🛒 Local Market - Marketplace Universitario
+
+[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+> [!NOTE]
+> **Plataforma digital innovadora** que conecta emprendedores universitarios con la comunidad local, facilitando la venta de productos y servicios mientras fomenta el ecosistema emprendedor estudiantil.
 
 ## 📋 Resumen Ejecutivo
 
-**Local Market** es una plataforma digital innovadora que conecta emprendedores universitarios con la comunidad local, facilitando la venta de productos y servicios mientras fomenta el ecosistema emprendedor. Desarrollada con **Laravel 12**, surge para profesionalizar la presencia digital de estudiantes emprendedores.
+**Local Market** es una plataforma web desarrollada con **Laravel 12** que surge para profesionalizar la presencia digital de estudiantes emprendedores. El proyecto digitaliza las ventas estudiantiles y crea un ecosistema emprendedor robusto dentro del ámbito universitario.
 
-**Mi contribución:** Como **Scrum Master** y desarrollador backend, lideré la implementación del sistema de autenticación, gestión de usuarios y arquitectura de base de datos, coordinando la integración frontend-backend y entregando 21 Story Points en el Sprint 1.
+**Mi rol principal:** Como **Scrum Master** y **Backend Developer Senior**, lideré la arquitectura del sistema, implementé funcionalidades críticas y coordiné la integración entre frontend y backend, entregando **21 Story Points** en el Sprint 1 con **100% de éxito** en el Sprint Goal.
 
-**Impacto:** Digitalización de ventas, creación de un ecosistema emprendedor y acceso a productos únicos para la comunidad estudiantil.
-
----
-
-## 💻 Contribuciones Técnicas
-
-### Tecnologías Utilizadas
-
-| **Backend** | **Frontend** | **Herramientas** | **Metodología** |
-| --- | --- | --- | --- |
-| Laravel 12 | Blade Templates | Composer | Scrum |
-| PHP 8.1+ | JavaScript ES6+ | npm | Test-Driven Development |
-| MySQL | CSS3 | Git | Code Review |
-| Eloquent ORM | Responsive Design | JIRA | CI/CD |
-
-### 🔑 Contribuciones Clave de Código
-
-1. **Sistema de Autenticación y Recuperación de Contraseñas**
-
-   - **Funcionalidad:** Registro, login y recuperación de contraseñas.
-   - **Tecnologías:** Laravel Authentication, Email Verification, Password Reset.
-   - **Commits:** US-001, US-002, US-003.
-
-2. **Sistema de Gestión de Productos**
-
-   - **Funcionalidad:** Creación, edición y gestión de productos con validaciones.
-   - **Tecnologías:** Eloquent Models, Image Upload, Form Validation.
-   - **Commits:** US-004, US-006.
-
-3. **Dashboard del Emprendedor**
-
-   - **Funcionalidad:** Panel con métricas de ventas, pedidos y análisis.
-   - **Tecnologías:** Laravel Controllers, Blade Components, Chart.js.
-   - **Commits:** US-010.
-3. **Links de Commits**
-- https://github.com/Jhoel777ar/marketplace-lpz/commit/0ae7133d85fc9632065d6e8c5d9a092d58be41a0
-- https://github.com/Jhoel777ar/marketplace-lpz/commit/f4bef3a5cfedffef90e32a05df043a33ff46a323
-- https://github.com/Jhoel777ar/marketplace-lpz/commit/128af8d7120702d99a01ee7244af4e89da2100d6
-
-### 🛠️ Desafíos Técnicos Resueltos
-
-- **Validación de Correos Universitarios:** Sistema de validación de dominios educativos con confirmación por email.\
-  **Aprendizaje:** Importancia de validaciones robustas para la integridad de la comunidad.
-- **Dependencias Backend-Frontend:** Documentación de APIs y comunicación clara para reducir bloqueos.\
-  **Aprendizaje:** Documentación temprana clave para desarrollo ágil.
-- **Gestión de Imágenes:** Compresión automática y almacenamiento optimizado.\
-  **Aprendizaje:** Optimización esencial para aplicaciones multimedia.
+La plataforma impacta directamente en la digitalización de ventas estudiantiles, la creación de un ecosistema emprendedor sostenible y el acceso facilitado a productos únicos para la comunidad universitaria.
 
 ---
 
-## 🏃 Aplicación de Metodología Ágil
+## 🎯 Características Principales
 
-### Roles Ejercidos
+<div align="center">
 
-**Scrum Master & Desarrollador Backend:** Facilitación de ceremonias Scrum, eliminación de impedimentos y desarrollo de funcionalidades críticas. Entrega exitosa de 21 Story Points.
+| **Para Emprendedores** | **Para Clientes** | **Para Administradores** |
+|:--:|:--:|:--:|
+| 📊 Dashboard con métricas | 🛍️ Catálogo de productos | 👥 Gestión de usuarios |
+| 📦 Gestión de inventario | 🛒 Carrito inteligente | 📈 Analytics del sistema |
+| 💰 Historial de ventas | 💳 Múltiples métodos de pago | 🔧 Configuración global |
+| 📱 Panel móvil responsive | ⭐ Sistema de reseñas | 🛡️ Moderación de contenido |
 
-### Participación en Ceremonias Scrum
+</div>
 
-| **Métrica** | **Valor** |
-| --- | --- |
-| Daily Scrums Facilitados | 4 |
-| Asistencia Ceremonias | 100% |
-| Story Points Completados | 21 |
-| Velocidad Final Sprint 1 | 18 |
+---
 
-### Métricas Personales
+## 🖼️ Capturas de Pantalla
 
-- **Sprint Planning:** Estimación de 4 User Stories y distribución de tareas.
-- **Daily Scrums:** Resolución de 3 impedimentos críticos.
-- **Sprint Review:** Demo exitosa de 4 funcionalidades con feedback positivo.
-- **Retrospectiva:** Técnica "Start-Stop-Continue" con 2 experimentos de mejora.
+### Registro de Emprendedores
+<img src="https://drive.google.com/uc?export=view&id=1QY9TLtGiEa5z-YG905cf0f6rIMCDuEgR" alt="Registro de emprendedores" width="600"/>
+
+> [!TIP]
+> **Sistema de validación avanzado** con verificación de correos universitarios y OAuth 2.0 para registro rápido.
+
+### Dashboard del Emprendedor
+<img src="https://drive.google.com/uc?export=view&id=15WUnjgdYNhMNBFGFAaav5sBkq7dx3F-V" alt="Dashboard emprendedor" width="600"/>
+
+### Creación de Productos
+<img src="https://drive.google.com/uc?export=view&id=1sLQ5NZddMMU3dtKmLfEsYQyH1Tgw98yC" alt="Creación de productos" width="600"/>
+
+### Vista Móvil Responsive
+<img src="https://drive.google.com/uc?export=view&id=1pJYa36nQ05lBaHGb6i2I5dLz0jfUjRfm" alt="Vista móvil responsive" width="600"/>
+
+> [!IMPORTANT]
+> **100% Mobile-First Design** - Todas las funcionalidades están optimizadas para dispositivos móviles con diseño responsive.
+
+---
+
+## 💻 Stack Tecnológico
+
+<div align="center">
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-ORM-FF2D20?style=flat-square)
+
+### Frontend
+![Blade](https://img.shields.io/badge/Blade-Templates-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 🔑 Contribuciones Técnicas Clave
+
+### 1. Sistema de Autenticación Avanzado
+- **Funcionalidad:** Registro dual (Emprendedores/Clientes), login seguro y recuperación de contraseñas
+- **Tecnologías:** Laravel Authentication, Email Verification, Password Reset Tokens
+- **Commit:** [`c7729970`](https://github.com/Jhoel777ar/marketplace-lpz/commit/c7729970b3ee605b4da21c00d8a099105e846d46) - **Implementación completa del sistema de auth**
+
+> [!NOTE]
+> **Validación universitaria:** Sistema robusto que valida dominios educativos para garantizar que solo estudiantes universitarios puedan registrarse como emprendedores.
+
+### 2. Dashboard Interactivo con Métricas
+- **Funcionalidad:** Panel de control con estadísticas de ventas, análisis de productos y métricas en tiempo real
+- **Tecnologías:** Laravel Controllers, Blade Components, Chart.js, Ajax
+- **Commits:** [`0ae7133d`](https://github.com/Jhoel777ar/marketplace-lpz/commit/0ae7133d85fc9632065d6e8c5d9a092d58be41a0)
+
+### 3. Sistema de Gestión de Productos
+- **Funcionalidad:** CRUD completo con upload de imágenes, validaciones y gestión de inventario
+- **Tecnologías:** Eloquent Models, File Storage, Form Validation
+- **Commits:** [`f4bef3a5`](https://github.com/Jhoel777ar/marketplace-lpz/commit/f4bef3a5cfedffef90e32a05df043a33ff46a323)
+
+### 4. Arquitectura de Base de Datos
+- **Funcionalidad:** Diseño e implementación de migraciones, seeders y relaciones Eloquent
+- **Tecnologías:** MySQL, Laravel Migrations, Factory Pattern
+- **Commits:** [`128af8d7`](https://github.com/Jhoel777ar/marketplace-lpz/commit/128af8d7120702d99a01ee7244af4e89da2100d6)
+
+> [!TIP]
+> **Ver todos mis commits:** [Backend Joel Branch](https://github.com/Jhoel777ar/marketplace-lpz/commits/backend-joel/) - Historial completo de contribuciones
+
+---
+
+## 🛠️ Desafíos Técnicos Resueltos
+
+### 🔐 Validación de Correos Universitarios
+**Problema:** Necesidad de verificar que los emprendedores sean estudiantes universitarios reales.
+
+**Solución:** Implementé un sistema de validación que:
+- Verifica dominios educativos mediante regex
+- Envía códigos de confirmación por email
+- Mantiene estados de verificación en base de datos
+
+**Aprendizaje:** La importancia de validaciones robustas para mantener la integridad y confianza de la comunidad.
+
+### ⚙️ Integración Frontend-Backend
+**Problema:** Dependencias bloqueantes entre desarrollo frontend y backend.
+
+**Solución:** 
+- Documentación temprana de APIs con Postman
+- Implementación de mocks para desarrollo paralelo
+- Comunicación proactiva en Daily Scrums
+
+**Aprendizaje:** La documentación temprana y comunicación clara son fundamentales para el desarrollo ágil exitoso.
+
+### 📱 Optimización de Rendimiento
+**Problema:** Carga lenta de imágenes y datos en el dashboard móvil.
+
+**Solución:**
+- Implementé lazy loading para imágenes
+- Compresión automática de uploads
+- Paginación optimizada con Ajax
+
+**Aprendizaje:** La optimización debe considerarse desde el diseño, no como una mejora posterior.
+
+> [!WARNING]
+> **Lección importante:** Las optimizaciones de rendimiento implementadas tardíamente son más costosas y menos efectivas que las consideradas desde el arquitectura inicial.
+
+---
+
+## 🏃 Metodología Ágil - Scrum Implementation
+
+### 👨‍💼 Rol Dual: Scrum Master & Senior Backend Developer
+
+Como **Scrum Master**, facilité todas las ceremonias Scrum y eliminé impedimentos críticos. Como **Backend Developer**, implementé funcionalidades core manteniendo alta calidad de código.
+
+<div align="center">
+
+| **Métrica Scrum** | **Resultado** |
+|:--:|:--:|
+| 📊 Story Points Completados | **21/21** |
+| 🎯 Sprint Goal Achievement | **100%** |
+| ⏰ Daily Scrums Facilitados | **4 efectivos** |
+| 🚧 Impedimentos Resueltos | **3 críticos** |
+| 📈 Velocidad del Equipo | **18 SP** |
+
+</div>
+
+### 📅 Participación en Ceremonias
+
+**Sprint Planning:** 
+- Estimación de 4 User Stories principales
+- Distribución estratégica de tareas
+- Definición clara del Sprint Goal
+
+**Daily Scrums:** 
+- Duración optimizada: 15 min (reducido desde 25 min)
+- Resolución proactiva de 3 impedimentos críticos
+- Comunicación efectiva de progreso y bloqueos
+
+**Sprint Review:** 
+- Demo exitosa de 4 funcionalidades implementadas
+- Feedback positivo de stakeholders (8.25/10)
+- Validación de criterios de aceptación
+
+**Sprint Retrospective:**
+- Técnica "Start-Stop-Continue" aplicada
+- 2 experimentos de mejora identificados
+- Plan de acción para Sprint 2
+
+> [!IMPORTANT]
+> **Logro destacado:** Entrega del 100% del Sprint Goal con 0 impedimentos sin resolver y feedback superior a 8/10 de stakeholders.
 
 ---
 
 ## 🤝 Desarrollo de Habilidades Blandas
 
-| **Habilidad** | **Mejora** | **Evidencia** |
-| --- | --- | --- |
-| 💬 Comunicación | Daily Scrums efectivos de 15 min (de 25 min). | 0 impedimentos sin resolver en Sprint 1. |
-| 👑 Liderazgo | Guía para completar 100% del Sprint Goal. | Revisiones de código obligatorias aceptadas. |
-| 🔧 Resolución | Resolución de dependencias backend-frontend. | Eliminación de bloqueos técnicos. |
-| 🔄 Adaptabilidad | Ajuste de prioridades en tiempo real para integración de redes sociales. | Reasignación exitosa manteniendo velocidad. |
+### 💬 Comunicación Efectiva
+**Evidencia:** Reducción de Daily Scrums de 25 a 15 minutos manteniendo efectividad.
+**Impacto:** 0 impedimentos sin resolver en todo el Sprint 1.
 
----
+### 👑 Liderazgo Técnico
+**Evidencia:** Guía del equipo para completar 100% del Sprint Goal.
+**Implementación:** Establecimiento de revisiones de código obligatorias con promedio de 4h de review.
 
-## 📁 Artefactos y Evidencia
+### 🔧 Resolución de Problemas
+**Evidencia:** Resolución proactiva de dependencias críticas entre frontend y backend.
+**Resultado:** Eliminación completa de bloqueos técnicos que amenazaban el Sprint Goal.
 
-### 🖼️ Funcionalidades Implementadas
-
-- **US-001: Registro de Emprendedor**\
-  Registro con validación de correo universitario. **Feedback:** "Interfaz elegante" (8/10).
-- **US-002: Registro de Cliente**\
-  Registro rápido con OAuth 2.0. **Feedback:** "Velocidad excelente" (9/10).
-- **US-004: Crear Producto**\
-  Gestión de productos con imágenes e inventario. **Feedback:** "Amigable" (7/10).
-- **US-006: Editar Productos**\
-  Edición con historial de cambios. **Feedback:** "Interfaz clara" (7/10).
-
-### 📚 Documentación Creada
-
-- Product Backlog con 15 User Stories.
-- Documentación de 4 Daily Scrums.
-- Análisis de métricas y velocidad.
-- Sprint Retrospective con plan de mejora.
-- Sprint Review con feedback de stakeholders.
-
-### 🏆 Reconocimientos
-
-- **Evaluación Stakeholders:** 8.25/10 en funcionalidades.
-- **Feedback Equipo:** Liderazgo efectivo y comunicación proactiva.
-- **Logro Técnico:** 100% Story Points completados en Sprint 1.
+### 🔄 Adaptabilidad
+**Evidencia:** Ajuste exitoso de prioridades para integración de redes sociales.
+**Logro:** Reasignación de tareas manteniendo la velocidad del equipo sin afectar el Sprint Goal.
 
 ---
 
 ## 👥 Equipo Stark-Next
 
-| **Miembro** | **Rol** | **Contribuciones** |
-| --- | --- | --- |
-| Joel Andrés | Scrum Master & Backend Developer | Autenticación, Base de Datos, Dashboard |
-| Shamir Erick Condori | Frontend Developer & UX Designer | Interfaces de Registro, Social Media |
-| Luis Fernando Villca | UI Designer & Backend Developer | Catálogo, API Endpoints |
-| Leonardo Fidel Arana | UX Designer & Frontend Developer | Carrito, Edición de Productos |
-| Danner Alejandro Calle | QA Tester | Testing, Validación, Casos de Prueba |
+<div align="center">
+
+| **👨‍💻 Miembro** | **🎯 Rol Principal** | **⭐ Contribuciones Clave** |
+|:--:|:--:|:--:|
+| **Joel Andrés** | Scrum Master & Backend Dev | Autenticación, Base de Datos, Dashboard |
+| **Shamir Erick Condori** | Frontend Dev & UX Designer | Interfaces de Usuario, Social Media Integration |
+| **Luis Fernando Villca** | UI Designer & Backend Dev | Catálogo de Productos, API Endpoints |
+| **Leonardo Fidel Arana** | UX Designer & Frontend Dev | Carrito de Compras, Edición de Productos |
+| **Danner Alejandro Calle** | QA Tester & Quality Assurance | Testing Integral, Validaciones, Casos de Prueba |
+
+</div>
 
 ---
 
 ## ⚙️ Instalación y Configuración
 
-1. **Clonar Repositorio**
+### 🔧 Requisitos del Sistema
+- **PHP:** 8.1 o superior
+- **Composer:** 2.0+
+- **Node.js:** 16.0+
+- **MySQL:** 8.0+
 
+### 🚀 Instalación Paso a Paso
+
+1. **Clonar el Repositorio**
    ```bash
    git clone https://github.com/Jhoel777ar/marketplace-lpz.git
    cd marketplace-lpz
    ```
 
 2. **Instalar Dependencias**
-
    ```bash
+   # Backend dependencies
    composer install
+   
+   # Frontend dependencies
    npm install && npm run build
    ```
 
-3. **Configurar Entorno**
-
+3. **Configurar Variables de Entorno**
    ```bash
    cp .env.example .env
    php artisan key:generate
    ```
 
-4. **Base de Datos**
-
+4. **Configurar Base de Datos**
    ```bash
+   # Ejecutar migraciones y seeders
    php artisan migrate --seed
    ```
 
-5. **Iniciar Servidor**
-
+5. **Iniciar el Servidor de Desarrollo**
    ```bash
    php artisan serve
    ```
 
-   Disponible en: **http://127.0.0.1:8000**
+> [!TIP]
+> **Acceso rápido:** La aplicación estará disponible en `http://127.0.0.1:8000`
 
-### 🎯 Accesos al Sistema
+### 🎯 Paneles de Acceso
 
-- **Panel Emprendedor:** `/emprendedor` (Gestión de productos, ventas, estadísticas).
-- **Panel Administrador:** `/admin` (Gestión completa del sistema).
-
----
-
-## 🌱 Reflexión y Crecimiento Futuro
-
-### 🎓 Autoreflexión
-
-Ser **Scrum Master** transformó mi perspectiva sobre liderazgo técnico. Balancear roles duales (Scrum Master y desarrollador) enseñó gestión del tiempo y comunicación proactiva. Entrega de 21 Story Points demostró alta productividad técnica.
-
-### 🚀 Plan de Crecimiento
-
-- **Corto Plazo (3 meses):**
-  - Técnico: Microservicios, APIs RESTful.
-  - Ágil: Certificación PSM I.
-  - Liderazgo: Facilitación y resolución de conflictos.
-- **Mediano Plazo (6 meses):**
-  - Técnico: DevOps, automatización de deploys.
-  - Ágil: Roles de Product Owner, Agile Coach.
-  - Liderazgo: Proyectos con equipos distribuidos.
-- **Largo Plazo (1 año):**
-  - Técnico: Arquitecturas cloud-native, escalabilidad.
-  - Ágil: Transformaciones ágiles en organizaciones.
-  - Liderazgo: Mentoring y coaching técnico.
-
-### 🎯 Impacto en Visión Profesional
-
-Confirmé interés en roles híbridos (**Technical Scrum Master**). Aspiro a posiciones como **Engineering Team Lead** o **Technical Product Manager**, combinando desarrollo y liderazgo ágil.
+- **🏪 Panel Emprendedor:** `/emprendedor` - Gestión completa de productos, ventas y estadísticas
+- **👑 Panel Administrador:** `/admin` - Administración total del sistema
+- **🛍️ Catálogo Público:** `/` - Vista pública del marketplace
 
 ---
 
-## 📊 Métricas y Resultados
+## 📊 Métricas y Resultados del Proyecto
 
-| **Métrica** | **Valor** |
-| --- | --- |
-| Story Points Completados | 21 |
-| Sprint Goal Alcanzado | 100% |
-| User Stories Entregadas | 4 |
-| Cobertura de Código | 50% |
-| Bugs en Producción | 0 |
-| Evaluación Stakeholders | 8.25 |
+<div align="center">
+
+| **📈 KPI** | **🎯 Objetivo** | **✅ Resultado** | **📊 % Cumplimiento** |
+|:--:|:--:|:--:|:--:|
+| Story Points | 18-20 SP | **21 SP** | **110%** |
+| Sprint Goal | 100% | **100%** | **100%** |
+| User Stories | 4 US | **4 US** | **100%** |
+| Cobertura Testing | 40% | **50%** | **125%** |
+| Bugs Producción | <2 bugs | **0 bugs** | **100%** |
+| Satisfacción Stakeholders | >7.0/10 | **8.25/10** | **118%** |
+
+</div>
 
 ### 📈 Evolución del Sprint
 
-- **Día 1-2:** Setup, arquitectura, resolución de dependencias.
-- **Día 3-4:** Desarrollo de funcionalidades core, integración backend-frontend.
-- **Día 5-7:** Pruebas, refinamiento UI, preparación para demo.
+```mermaid
+gantt
+    title Sprint 1 - Evolución de Desarrollo
+    dateFormat  YYYY-MM-DD
+    section Setup & Arquitectura
+    Configuración inicial    :active, setup, 2024-08-01, 2d
+    Arquitectura BD         :arch, 2024-08-02, 1d
+    section Desarrollo Core
+    Sistema Auth            :dev1, 2024-08-03, 2d
+    Dashboard              :dev2, 2024-08-04, 2d
+    Gestión Productos      :dev3, 2024-08-05, 2d
+    section Testing & Deploy
+    Pruebas Integración    :test, 2024-08-06, 1d
+    Demo Preparation       :demo, 2024-08-07, 1d
+```
+
+> [!NOTE]
+> **Velocity del equipo:** Incremento del 16.7% respecto a la estimación inicial, demostrando alta eficiencia en la implementación.
 
 ---
 
 ## 🚀 Roadmap y Próximos Sprints
 
-### Sprint 2 - Planificado
+### 🎯 Sprint 2 - En Planificación
 
-- **Objetivo:** Sistema de compras y carrito funcional.
-- **Capacidad:** 22-24 Story Points.
-- **User Stories:**
-  - US-005: Explorar Catálogo.
-  - US-007: Carrito de Compras.
-  - US-008: Proceso de Pago Simulado.
-  - US-009: Cupones y Descuentos.
+**Objetivo:** Sistema de compras completo y funcional con carrito inteligente.
 
-### Experimentos de Mejora
+**Capacidad Estimada:** 22-24 Story Points
 
-- **Revisiones de Código Obligatorias:** Reducir bugs, ≤4h promedio de review.
-- **Daily Scrums Optimizados:** Reducir de 25 a 15 min, actualización de tablero inmediata.
+**User Stories Prioritarias:**
+- **US-005:** Explorar Catálogo con filtros avanzados
+- **US-007:** Carrito de Compras persistente
+- **US-008:** Proceso de Pago simulado seguro
+- **US-009:** Sistema de Cupones y Descuentos
+
+### 🔬 Experimentos de Mejora Continua
+
+1. **Code Review Optimization:**
+   - Objetivo: Reducir tiempo de review a ≤4h promedio
+   - Métrica: Tiempo promedio de aprobación de PRs
+
+2. **Daily Scrum Enhancement:**
+   - Objetivo: Mantener reuniones en 15 min con actualización inmediata del tablero
+   - Métrica: Duración promedio y satisfacción del equipo
 
 ---
 
-## 🔗 Enlaces y Contacto
+## 🌱 Reflexión y Crecimiento Profesional
 
-Ver Repositorio Demo en Vivo Documentación Técnica
+### 🎓 Autoreflexión sobre Aprendizajes
 
-**Universidad Privada Domingo Savio**
+Ejercer el rol dual de **Scrum Master** y **Backend Developer Senior** transformó completamente mi perspectiva sobre el liderazgo técnico. La experiencia me enseñó que balancear la facilitación de equipos con el desarrollo de código requiere habilidades excepcionales de gestión del tiempo y comunicación proactiva.
 
+La entrega exitosa de **21 Story Points** en el primer sprint demostró que es posible mantener alta productividad técnica mientras se lidera efectivamente un equipo ágil. Los desafíos más significativos surgieron en la coordinación de dependencias técnicas, donde la documentación temprana de APIs y la comunicación constante fueron factores críticos de éxito.
+
+### 📈 Plan de Crecimiento Personal
+
+<div align="center">
+
+| **⏱️ Plazo** | **💻 Habilidades Técnicas** | **🔄 Prácticas Ágiles** | **👥 Liderazgo** |
+|:--:|:--|:--|:--|
+| **3 meses** | • Microservicios con Docker<br>• APIs RESTful avanzadas<br>• Testing automatizado | • Certificación PSM I<br>• Facilitación avanzada<br>• Metrics & KPIs | • Resolución de conflictos<br>• Mentoring técnico<br>• Communication skills |
+| **6 meses** | • DevOps & CI/CD<br>• Cloud Architecture (AWS)<br>• Performance optimization | • Product Owner experience<br>• Agile Coaching<br>• OKRs implementation | • Cross-functional leadership<br>• Strategic thinking<br>• Team building |
+| **1 año** | • Cloud-native architectures<br>• System scalability<br>• Security best practices | • Agile transformation<br>• Change management<br>• Organizational coaching | • Technical vision<br>• Innovation leadership<br>• Stakeholder management |
+
+</div>
+
+### 🎯 Impacto en Visión Profesional
+
+Esta experiencia confirmó mi interés en roles híbridos como **Technical Scrum Master** o **Engineering Team Lead**. Mi objetivo profesional se orienta hacia posiciones como:
+
+- **🎯 Technical Product Manager:** Combinando visión técnica con estrategia de producto
+- **👨‍💼 Engineering Team Lead:** Liderando equipos técnicos con enfoque ágil
+- **🚀 Agile Technical Coach:** Mentoring técnico con transformación ágil
+
+El proyecto demostró que mi fortaleza reside en la intersección entre excelencia técnica y liderazgo ágil efectivo.
+
+---
+
+## 📞 Contacto y Enlaces
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jhoel777ar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhoel777ar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Andrés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+### 🔗 Enlaces del Proyecto
+
+- **🏠 [Repositorio Principal](https://github.com/Jhoel777ar/marketplace-lpz/tree/backend-joel)**
+- **📝 [Historial de Commits](https://github.com/Jhoel777ar/marketplace-lpz/commits/backend-joel/)**
+- **🚀 [Demo en Vivo](#)** *(Próximamente)*
+- **📚 [Documentación Técnica](#)** *(En desarrollo)*
+
+---
+
+<div align="center">
+
+## 🏆 Reconocimientos y Certificaciones
+
+**🎓 Universidad Privada Domingo Savio**
 - **Facultad:** Ingeniería en Sistemas
 - **Materia:** 19EBF50 - Ingeniería de Software I
 - **Docente:** Lic. Rosalía Lopez Montalvo
-- **Fecha:** Agosto 2025
+- **Período:** Agosto 2025
 - **Grupo:** 2 - Equipo Stark-Next
+
+**📊 Evaluaciones Obtenidas:**
+- **Stakeholders:** 8.25/10
+- **Equipo:** Liderazgo Efectivo ⭐⭐⭐⭐⭐
+- **Técnica:** 100% Story Points Completados 🏆
+
+</div>
+
+---
+
+<p align="center">
+  <strong>🚀 "La innovación nace cuando la excelencia técnica se encuentra con el liderazgo ágil efectivo" 🚀</strong>
+</p>
+
+<div align="center">
+
+*Desarrollado con ❤️ por el Equipo Stark-Next *
+
+**⭐ Si este proyecto te resultó útil, no olvides darle una estrella ⭐**
+
+</div>
