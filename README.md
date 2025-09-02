@@ -42,10 +42,10 @@ La plataforma impacta directamente en la digitalización de ventas estudiantiles
 > **Sistema de validación avanzado** con verificación de correos universitarios y OAuth 2.0 para registro rápido.
 
 ### Dashboard del Emprendedor
-<img src="https://drive.google.com/file/d/15WUnjgdYNhMNBFGFAaav5sBkq7dx3F-V/view?usp=sharing" alt="Dashboard emprendedor" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=15WUnjgdYNhMNBFGFAaav5sBkq7dx3F-V" alt="Dashboard emprendedor" width="600"/>
 
 ### Creación de Productos
-<img src="https://drive.google.com/file/d/1sLQ5NZddMMU3dtKmLfEsYQyH1Tgw98yC/view?usp=drive_link" alt="Creación de productos" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1sLQ5NZddMMU3dtKmLfEsYQyH1Tgw98yC" alt="Creación de productos" width="600"/>
 
 ### Vista Móvil Responsive
 <img src="https://drive.google.com/uc?export=view&id=1pJYa36nQ05lBaHGb6i2I5dLz0jfUjRfm" alt="Vista móvil responsive" width="600"/>
