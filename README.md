@@ -10,9 +10,9 @@
 
 ## 📋 Resumen Ejecutivo
 
-**Local Market** es una plataforma web desarrollada con **Laravel 12** que surge para profesionalizar la presencia digital de estudiantes emprendedores. El proyecto digitaliza las ventas estudiantiles y crea un ecosistema emprendedor robusto dentro del ámbito universitario.
+**Tu ex Market** es una plataforma web desarrollada con **Laravel 12** que surge para profesionalizar la presencia digital de estudiantes emprendedores. El proyecto digitaliza las ventas estudiantiles y crea un ecosistema emprendedor robusto dentro del ámbito universitario.
 
-**Mi rol principal:** Como **Scrum Master** y **Backend Developer Senior**, lideré la arquitectura del sistema, implementé funcionalidades críticas y coordiné la integración entre frontend y backend, entregando **21 Story Points** en el Sprint 1 con **100% de éxito** en el Sprint Goal.
+**Mi rol principal:** Como **Scrum Master** y **Backend Developer**, lideré la arquitectura del sistema, implementé funcionalidades críticas y coordiné la integración entre frontend y backend, entregando **21 Story Points** en el Sprint 1 con **100% de éxito** en el Sprint Goal.
 
 La plataforma impacta directamente en la digitalización de ventas estudiantiles, la creación de un ecosistema emprendedor sostenible y el acceso facilitado a productos únicos para la comunidad universitaria.
 
