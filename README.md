@@ -304,15 +304,15 @@ gantt
     title Sprint 1 - Evolución de Desarrollo
     dateFormat  YYYY-MM-DD
     section Setup & Arquitectura
-    Configuración inicial    :active, setup, 2024-08-01, 2d
-    Arquitectura BD         :arch, 2024-08-02, 1d
+    Configuración inicial    :active, setup, 2025-08-01, 2d
+    Arquitectura BD         :arch, 2025-08-02, 1d
     section Desarrollo Core
-    Sistema Auth            :dev1, 2024-08-03, 2d
-    Dashboard              :dev2, 2024-08-04, 2d
-    Gestión Productos      :dev3, 2024-08-05, 2d
+    Sistema Auth            :dev1, 2025-08-03, 2d
+    Dashboard              :dev2, 2025-08-04, 2d
+    Gestión Productos      :dev3, 2025-08-05, 2d
     section Testing & Deploy
-    Pruebas Integración    :test, 2024-08-06, 1d
-    Demo Preparation       :demo, 2024-08-07, 1d
+    Pruebas Integración    :test, 2025-08-06, 1d
+    Demo Preparation       :demo, 2025-08-07, 1d
 ```
 
 > [!NOTE]
